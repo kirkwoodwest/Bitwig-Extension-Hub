@@ -44,8 +44,8 @@ https://www.r-kontrol.com/
 - [Otterbacks Bitwig Controller Tutorial](https://github.com/outterback/bitwig-controller-tutorial/blob/master/README.md)
 
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268
-)https://www.kvraudio.com/forum/viewforum.php?f=268
+  
 
 - [#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
 
-- [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij
+- [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
