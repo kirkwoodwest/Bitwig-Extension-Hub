@@ -16,9 +16,10 @@ https://github.com/bitwig/bitwig-extensions
 | ---------- | ---------- | ---------- | --- |
 | * | DrivenByMoss by Mossgraber |  https://www.mossgrabers.de/Software/Bitwig/Bitwig.html | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=502948)  |
 | Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
-| MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main |
+| MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
 
-
+*Indicates multiple controller types
+  
 ## Touch OSC
 
 | Template  | Extension   | Author | Link   |
@@ -26,10 +27,6 @@ https://github.com/bitwig/bitwig-extensions
 | Ludwig 4Bitwig | DrivenByMoss | ylmrx | https://github.com/ylmrx/ludwig
 
 
-## Extension Resources
-- 
-- 
- 
 ## Other Control Surfaces
 
 ### R-Kontrol
@@ -44,3 +41,5 @@ https://www.r-kontrol.com/
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
 - [#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
 - [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
+
+### How To Java...
