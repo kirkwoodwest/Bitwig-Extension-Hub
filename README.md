@@ -4,6 +4,7 @@ A resource for Bitwig Extensions. Extension &amp; Documentation library. Resourc
 ## Unofficial Extensions
 So many great unnofficial extensions exist out there. So this is the place to find them. If you find a good extension or wrote one your self, open a ticket to submit.
 
+
 ## Official Bitwig Extension Library MIT Open Source
 https://github.com/bitwig/bitwig-extensions
 
@@ -34,3 +35,16 @@ https://github.com/bitwig/bitwig-extensions
 ### R-Kontrol
 Touch Screen application to control Bitwig Studio on iOS.
 https://www.r-kontrol.com/
+
+
+## Resources for writing extensions
+[Mossgrabber Extensions In .js/Java multi-part series](https://www.youtube.com/watch?v=l4AuiQ8krQc&list=PLqRWeSPiYQ66KBGONBenPv1O3luQCFQR2
+)
+[Otterbacks Bitwig Controller Tutorial](https://github.com/outterback/bitwig-controller-tutorial/blob/master/README.md)
+
+[KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268
+)https://www.kvraudio.com/forum/viewforum.php?f=268
+
+[#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
+
+[How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij
