@@ -43,3 +43,10 @@ https://www.r-kontrol.com/
 - [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
 
 ### How To Java...
+```json:table
+{
+    "items" : [
+      {"a": "11", "b": "22", "c": "33"}
+    ]
+}
+```
