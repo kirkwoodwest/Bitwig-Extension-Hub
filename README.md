@@ -12,11 +12,11 @@ https://github.com/bitwig/bitwig-extensions
 | Supported Controller  | Extension   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
 | * | DrivenByMoss by Mossgraber |  https://www.mossgrabers.de/Software/Bitwig/Bitwig.html | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=502948)  |
-| * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [source code](https://github.com/ericahrens/rhbitwig) |
+| * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [Source Code](https://github.com/ericahrens/rhbitwig) |
 | Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
 | MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
-| Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig
-| Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig |
+| Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig | |
+| Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig | | 
 
 *Indicates multiple controller types
   
