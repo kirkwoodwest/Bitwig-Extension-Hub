@@ -1,22 +1,22 @@
 # Bitwig-Extension-Hub
-A resource for Bitwig Extensions. Extension &amp; Documentation library. Resources for writing your own extensions,.
+An unnoficial resource for Bitwig Extensions. Here you will be able to find Extensions for yoru controller & resources for writing your own extensions.
 
 ## Unofficial Extensions
-So many great unnofficial extensions exist out there. So this is the place to find them. If you find a good extension or wrote one your self, open a ticket to submit.
-
+So many great unnofficial extensions exist out there. So this is the place to find them. If you find a good extension or made one yourself, please open a ticket to submit it!
 
 ## Official Bitwig Extension Library MIT Open Source
 https://github.com/bitwig/bitwig-extensions
-
-
 
 ## Known Extensions and Repos
 
 | Supported Controller  | Extension   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
 | * | DrivenByMoss by Mossgraber |  https://www.mossgrabers.de/Software/Bitwig/Bitwig.html | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=502948)  |
+| * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [source code](https://github.com/ericahrens/rhbitwig) |
 | Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
 | MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
+| Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig
+| Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig |
 
 *Indicates multiple controller types
   
