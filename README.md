@@ -30,7 +30,7 @@ https://github.com/bitwig/bitwig-extensions
 ## Other Control Surfaces
 
 ### R-Kontrol
-Touch Screen application to control Bitwig Studio on iOS.
+Control Bitwig Studio® with your iOS devices, from everywhere in your studio.
 https://www.r-kontrol.com/
 
 
