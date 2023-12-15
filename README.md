@@ -4,7 +4,7 @@ An unnoficial resource for Bitwig Extensions. Here you will be able to find Exte
 ## Unofficial Extensions
 So many great unnofficial extensions exist out there. So this is the place to find them. If you find a good extension or made one yourself, please open a ticket to submit it!
 
-## Official Bitwig Extension Library MIT Open Source
+## Official Bitwig Extension Repository
 https://github.com/bitwig/bitwig-extensions
 
 ## Known Extensions and Repos
