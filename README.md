@@ -23,7 +23,7 @@ https://github.com/bitwig/bitwig-extensions
 ## Utility Extensions
 | Utility  | Extension   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
-| XJadeo Video Sync  | XJadeo Video Sync | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
+| Sync Video with XJadeo Video  | XJadeo Video Sync | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
 | Plugin Window Control | Bitwig Plugin Window Control | https://github.com/kirkwoodwest/Bitwig-Plugin-Window-Control | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=590095) |
 | Time Calculator for BPM to ms |  Time Calc |https://github.com/ensonic/bitwig-timecalc  | |
 
