@@ -17,7 +17,7 @@ https://github.com/bitwig/bitwig-extensions
 | MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
 | Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig | |
 | Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig | | 
-| Linnstrument | Alternative linnstrument Extension | https://github.com/ocherny/LinnAlt/releases/tag/0.1 | https://www.kvraudio.com/forum/viewtopic.php?t=560991 |
+| Linnstrument | Alternative linnstrument Extension | https://github.com/ocherny/LinnAlt/releases/tag/0.1 |  [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=560991) |
 
 *Indicates multiple controller types
 
