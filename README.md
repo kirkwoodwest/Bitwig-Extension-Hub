@@ -13,19 +13,22 @@ https://github.com/bitwig/bitwig-extensions
 | ---------- | ---------- | ---------- | --- |
 | * | DrivenByMoss by Mossgraber |  https://www.mossgrabers.de/Software/Bitwig/Bitwig.html | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=502948)  |
 | * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [Source Code](https://github.com/ericahrens/rhbitwig) |
-| Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
-| MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
-| Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig | |
+| Atom SQ|Atom SQ By JamesB-VS|https://github.com/JamesB-VS/AtomSQ_Bitwig|[KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=595445&sid=3466ae5ee856f7f38c51770dc4162704) |
 | Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig | | 
 | Linnstrument | Alternative linnstrument Extension | https://github.com/ocherny/LinnAlt/releases/tag/0.1 |  [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=560991) |
+| Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
+| Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig | |
+| MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
+
+
 
 *Indicates multiple controller types
 
 ## Utility Extensions
 | Utility  | Extension   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
-| Sync Video with XJadeo Video  | XJadeo Video Sync | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
 | Plugin Window Control | Bitwig Plugin Window Control | https://github.com/kirkwoodwest/Bitwig-Plugin-Window-Control | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=590095) |
+| Sync Video with XJadeo Video  | XJadeo Video Sync | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
 | Time Calculator for BPM to ms |  Time Calc |https://github.com/ensonic/bitwig-timecalc  | |
 
 
