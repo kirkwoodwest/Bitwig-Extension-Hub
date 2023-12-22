@@ -25,11 +25,13 @@ https://github.com/bitwig/bitwig-extensions
 *Indicates multiple controller types
 
 ## Utility Extensions
-| Utility  | Extension   | Link   | Additional resources |
+| Utility  | Description   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
-| Plugin Window Control | Bitwig Plugin Window Control | https://github.com/kirkwoodwest/Bitwig-Plugin-Window-Control | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=590095) |
-| Sync Video with XJadeo Video  | XJadeo Video Sync | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
-| Time Calculator for BPM to ms |  Time Calc |https://github.com/ensonic/bitwig-timecalc  | |
+| Plugin Window Control | Show/Hide Windows for Selected Track or All | https://github.com/kirkwoodwest/Bitwig-Plugin-Window-Control | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=590095) |
+| Sync Video with XJadeo Video  | Video Sync for XJadeo Video Player | https://github.com/Trinitou/xjadeo_video_sync_for_bitwig | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?p=8635542&hilit=xjadeo#p8635542) |
+| Time Calc | A simple time & frequency calculator |https://github.com/ensonic/bitwig-timecalc  | |
+| Auto Color | Auto Color Tracks based on their name | [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) | |
+| Midi Monitor | Monitor Midi in Controller Script Console  |  [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) | |
 
 
 ## Touch OSC
