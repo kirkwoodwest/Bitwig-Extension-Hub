@@ -7,7 +7,7 @@ So many great unnofficial extensions exist out there. So this is the place to fi
 ## Official Bitwig Extension Repository
 https://github.com/bitwig/bitwig-extensions
 
-## Known Extensions and Repos
+## Single Controller Extensions
 
 | Supported Controller  | Extension   | Link   | Additional resources |
 | ---------- | ---------- | ---------- | --- |
@@ -21,9 +21,13 @@ https://github.com/bitwig/bitwig-extensions
 | MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
 | MidiFighter Twister | Bitwig Performance Twister | https://github.com/Markram71/Bitwig-Performance-Twister | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=605243) |
 
+*Indicates multiple controller types Per extension, Too many to list
 
-
-*Indicates multiple controller types, Too many to list
+## Multi Controller Extensions
+These are a special breed of extensions that combine multiple controllers for additional functionality and control. One of the unique aspects of Bitwig Controller API is combining multiple control surfaces into one extension.
+| Supported Controller  | Extension   | Link   | Additional resources |
+| ---------- | ---------- | ---------- | --- |
+| Novation Launchpad Mini MK3 + LaunchControl XL | Launchpad XL by Netsu | https://github.com/Nettsu/launchpad-xl | --- |
 
 ## Utility Extensions
 | Utility  | Description   | Link   | Additional resources |
@@ -33,7 +37,6 @@ https://github.com/bitwig/bitwig-extensions
 | Time Calc | A simple time & frequency calculator |https://github.com/ensonic/bitwig-timecalc  | |
 | Auto Color | Auto Color Tracks based on their name | [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) | |
 | Midi Monitor | Monitor Midi in Controller Script Console  |  [DrivenByMoss](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) | |
-
 
 ## Touch OSC
 
