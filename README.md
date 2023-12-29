@@ -23,7 +23,7 @@ https://github.com/bitwig/bitwig-extensions
 
 
 
-*Indicates multiple controller types
+*Indicates multiple controller types, Too many to list
 
 ## Utility Extensions
 | Utility  | Description   | Link   | Additional resources |
