@@ -19,7 +19,8 @@ https://github.com/bitwig/bitwig-extensions
 | Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
 | Maschine Mikro Controller | Maschine Mikro Controller | https://github.com/ericahrens/MaschineMikroBitWig | |
 | MidiFighter Twister | Twister Sister By Dozius | https://github.com/dozius/TwisterSister/tree/main | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=562511) |
-| MidiFighter Twister | Bitwig Performance Twister | https://github.com/Markram71/Bitwig-Performance-Twister | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=605243) |
+| MidiFighter Twister | Bitwig Performance Twister by Markram71 | https://github.com/Markram71/Bitwig-Performance-Twister | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=605243) |
+| Monome Arc4 | Monome Arc4 By Kirkwood West | https://github.com/kirkwoodwest/bitwig-arc4 | |
 
 *Indicates multiple controller types Per extension, Too many to list
 
