@@ -15,6 +15,7 @@ https://github.com/bitwig/bitwig-extensions
 | * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [Source Code](https://github.com/ericahrens/rhbitwig) |
 | Atom SQ|Atom SQ By JamesB-VS|https://github.com/JamesB-VS/AtomSQ_Bitwig|[KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=595445&sid=3466ae5ee856f7f38c51770dc4162704) |
 | Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig | | 
+| Intech Grid PBF4 | PBF4 Mixer Controller (1-4 supported controllers) | https://github.com/giacecco/PBFMixerControl| | 
 | Linnstrument | Linnstrument ClipLauncher | https://github.com/TheSlowGrowth/LinnStrumentClipLauncher | |
 | Linnstrument | Alternative linnstrument Extension | https://github.com/ocherny/LinnAlt/releases/tag/0.1 |  [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=560991) |
 | Maschine Jam | MonsterJam by Minortom | https://github.com/unthingable/monster-jam/ | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=566800) |
