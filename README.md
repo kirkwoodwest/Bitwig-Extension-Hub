@@ -1,8 +1,20 @@
 # Bitwig-Extension-Hub
-An unnofficial resource for Bitwig Extensions. Here you will be able to find Extensions for your controller & resources for writing your own extensions.
+Welcome to Bitwig-Extension-Hub, your unofficial resource for all things Bitwig Extensions!
 
-## Unofficial Extensions
-So many great unnofficial extensions exist out there. So this is the place to find them. If you find a good extension or made one yourself, please open a ticket to submit it!
+## Discover Unofficial Extensions
+Explore a variety of fantastic unofficial extensions created by the community. These extensions are designed to elevate your Bitwig Studio experience, providing new functionalities and improving your workflow.
+
+## Share and Submit Your Extensions
+Have you found an exceptional extension or created one yourself? We want to hear from you! Open a ticket to submit your extension and share it with the Bitwig community. Your contributions can help others achieve more with their setup.
+
+## Ways to contribute more
+Help us create more resources for users to customize their workflows with the Bitwig Controller API. Send a message to kirkwoodwest@gmail.com and add you to permissions.
+
+Get Started
+
+Browse our collection of extensions, find resources to guide your development process, and connect with other Bitwig enthusiasts. Bitwig-Extension-Hub is here to support you in making the most of your Bitwig Studio.
+
+Join us in growing this hub of creativity and innovation. Happy extending!
 
 ## Official Bitwig Extension Repository
 https://github.com/bitwig/bitwig-extensions
