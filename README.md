@@ -68,9 +68,18 @@ https://www.r-kontrol.com/
 
 
 ## Resources for writing extensions
+
+### The ultimate resource for leaning Bitwig Extension and Script making
 - [Mossgrabber Extensions In .js/Java multi-part series](https://www.youtube.com/watch?v=l4AuiQ8krQc&list=PLqRWeSPiYQ66KBGONBenPv1O3luQCFQR2
 )
+
+### Setup a Java Extension with IntelliJ
 - [Otterbacks Bitwig Controller Tutorial](https://github.com/outterback/bitwig-controller-tutorial/blob/master/README.md)
-- [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
-- [#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
 - [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
+
+
+### Controller Extension Support Forum
+- [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
+
+### The Controllerism Hangout
+- [#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
