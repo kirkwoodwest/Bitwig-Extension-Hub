@@ -8,7 +8,7 @@ Explore a variety of fantastic unofficial extensions created by the community. T
 Have you found an exceptional extension or created one yourself? We want to hear from you! Open a ticket to submit your extension and share it with the Bitwig community. Your contributions can help others achieve more with their setup.
 
 ## Ways to contribute more
-Help us create more resources for users to customize their workflows with the Bitwig Controller API. Send a message to kirkwoodwest@gmail.com and add you to permissions.
+Help us create more resources for users to customize their workflows with the Bitwig Controller API.  We welcome any documentation, API Gotchas or anything you think would benefit the Bitwig API Space.
 
 Get Started
 
