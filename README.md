@@ -82,4 +82,4 @@ https://www.r-kontrol.com/
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
 
 ### The Controllerism Hangout
-- [#Controllerism on Polarities Discord Server](https://discord.gg/C4skzd3t)
+- [#Controllerism on the Bitwig Discord Server](https://discord.gg/C4skzd3t)
