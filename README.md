@@ -78,6 +78,9 @@ https://www.r-kontrol.com/
 - [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
 
 
+### Flat API files for use with LLMs & ChatGPT
+https://github.com/kirkwoodwest/bitwig-api-flat/
+
 ### Controller Extension Support Forum
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
 
