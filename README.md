@@ -26,6 +26,7 @@ https://github.com/bitwig/bitwig-extensions
 | * | DrivenByMoss by Mossgraber |  https://www.mossgrabers.de/Software/Bitwig/Bitwig.html | [KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=502948)  |
 | * | Richie Hawtins Extensions | https://www.bitwig.com/artists/richie-hawtin-40/ | [Source Code](https://github.com/ericahrens/rhbitwig) |
 | Atom SQ|Atom SQ By JamesB-VS|https://github.com/JamesB-VS/AtomSQ_Bitwig|[KVR Thread](https://www.kvraudio.com/forum/viewtopic.php?t=595445&sid=3466ae5ee856f7f38c51770dc4162704) |
+|Arturia SparkLE|Arturia SparkLE Extension| https://github.com/ArthurVimond/arturia-sparkle-bitwig-extension | |
 | Livid Instruments | Livid Instruments  | https://github.com/LividInstruments/Bitwig | | 
 | Intech Grid PBF4 | PBF4 Mixer Controller (1-4 supported controllers) | https://github.com/giacecco/PBFMixerControl| | 
 | Linnstrument | Linnstrument ClipLauncher | https://github.com/TheSlowGrowth/LinnStrumentClipLauncher | |
