@@ -83,7 +83,7 @@ https://github.com/kirkwoodwest/bitwig-api-flat/
 
 ### TypeScript for .js developers
 Get typed .js for Bitwig Scripts! These legends! (still maintained! API19 as of 25/3/20 )
-- [https://github.com/joslarson/typed-bitwig-api]
+- [Typed Script for .js](https://github.com/joslarson/typed-bitwig-api)
 
 ### Controller Extension Support Forum
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
