@@ -78,9 +78,12 @@ https://www.r-kontrol.com/
 - [Otterbacks Bitwig Controller Tutorial](https://github.com/outterback/bitwig-controller-tutorial/blob/master/README.md)
 - [How to get intellij started](https://www.kvraudio.com/forum/viewtopic.php?p=7912844&hilit=intellij)
 
-
 ### Flat API files for use with LLMs & ChatGPT
 https://github.com/kirkwoodwest/bitwig-api-flat/
+
+### TypeScript for .js developers
+Get typed .js for Bitwig Scripts! These legends! (still maintained! API19 as of 25/3/20 )
+- [https://github.com/joslarson/typed-bitwig-api]
 
 ### Controller Extension Support Forum
 - [KVR Bitwig Controller Scripting Subforum](https://www.kvraudio.com/forum/viewforum.php?f=268)
